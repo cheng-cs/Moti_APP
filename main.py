@@ -9,7 +9,6 @@ def openF():
     # create reset button here
 
 
-
     df = pd.read_csv('quotes2.csv' , delimiter=';')
 
     x = 1
